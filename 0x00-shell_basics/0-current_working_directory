@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/1789857661608135815026733534527057538928_5/205/373717/0x00-shell_basics
+echo "pwd"
