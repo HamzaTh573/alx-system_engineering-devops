@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:upper:]]* /tmp/u
+find /path/to/source/directory -maxdepth 1 -type f -name '[[:upper:]]*' -exec mv {} /tmp/u \;
